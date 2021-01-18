@@ -7,7 +7,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h> 
 
-#include "Base64.h" // Thanks to 
+#include "Base64.h"
 
 #define PORT 9999
 
